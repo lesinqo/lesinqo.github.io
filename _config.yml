@@ -1,7 +1,7 @@
 # Site settings
 title:          Abdullah Shahid
 description:    "Through The Mind of A Computer Science Major"
-baseurl:        "/Abdullah"
+baseurl:        ""
 url:            "https://AbdullahShahid.github.io"
 
 # Google Analytics
